@@ -86,6 +86,12 @@ The namespace exports the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`matrix()`][@stdlib/ndarray/matrix/ctor]</span><span class="delimiter">: </span><span class="description">create a matrix (i.e., a two-dimensional ndarray).</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -200,6 +206,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/ndarray-matrix/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-matrix/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/ndarray/matrix/ctor]: https://github.com/stdlib-js/ndarray-matrix-ctor
+
+<!-- </toc-links> -->
 
 </section>
 
