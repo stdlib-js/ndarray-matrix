@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-26)
+## Unreleased (2026-06-27)
 
 <section class="features">
 
@@ -43,6 +43,8 @@
 
 <details>
 
+-   [`a89402a`](https://github.com/stdlib-js/stdlib/commit/a89402ae3d59a3c0d1e6d7bc735dd8804ef6b048) - **docs:** update namespace table of contents [(#13161)](https://github.com/stdlib-js/stdlib/pull/13161) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
 -   [`7ff0456`](https://github.com/stdlib-js/stdlib/commit/7ff0456ac62f36e058b8f25bd3628750ab3daf7f) - **docs:** document accepted arguments _(by Athan Reines)_
 -   [`56ffe96`](https://github.com/stdlib-js/stdlib/commit/56ffe96cd1f83bb3e66cc0c2b63eba05fd2d5ee9) - **docs:** document accepted arguments _(by Athan Reines)_
 -   [`2e56dfa`](https://github.com/stdlib-js/stdlib/commit/2e56dfa5c8f48ea64c01692be8cc4ef5a7999d1e) - **feat:** add `Int32Matrix` to namespace _(by Athan Reines)_

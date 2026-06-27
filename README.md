@@ -88,7 +88,12 @@ The namespace exports the following:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`Complex128Matrix()`][@stdlib/ndarray/matrix/complex128]</span><span class="delimiter">: </span><span class="description">create a double-precision complex floating-point matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Complex64Matrix()`][@stdlib/ndarray/matrix/complex64]</span><span class="delimiter">: </span><span class="description">create a single-precision complex floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`matrix()`][@stdlib/ndarray/matrix/ctor]</span><span class="delimiter">: </span><span class="description">create a matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Float32Matrix()`][@stdlib/ndarray/matrix/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Float64Matrix()`][@stdlib/ndarray/matrix/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Int32Matrix()`][@stdlib/ndarray/matrix/int32]</span><span class="delimiter">: </span><span class="description">create a 32-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
 
 </div>
 
@@ -209,7 +214,17 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
+[@stdlib/ndarray/matrix/complex128]: https://github.com/stdlib-js/ndarray-matrix-complex128
+
+[@stdlib/ndarray/matrix/complex64]: https://github.com/stdlib-js/ndarray-matrix-complex64
+
 [@stdlib/ndarray/matrix/ctor]: https://github.com/stdlib-js/ndarray-matrix-ctor
+
+[@stdlib/ndarray/matrix/float32]: https://github.com/stdlib-js/ndarray-matrix-float32
+
+[@stdlib/ndarray/matrix/float64]: https://github.com/stdlib-js/ndarray-matrix-float64
+
+[@stdlib/ndarray/matrix/int32]: https://github.com/stdlib-js/ndarray-matrix-int32
 
 <!-- </toc-links> -->
 
