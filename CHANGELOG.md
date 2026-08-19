@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-01)
+## Unreleased (2026-08-19)
 
 <section class="features">
 
@@ -44,6 +44,10 @@
 
 <details>
 
+-   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
+-   [`f449b5c`](https://github.com/stdlib-js/stdlib/commit/f449b5c1784f60ab3322393dc3e51ad497ce12d2) - **docs:** update related packages sections [(#13381)](https://github.com/stdlib-js/stdlib/pull/13381) _(by stdlib-bot)_
+-   [`e8b3a87`](https://github.com/stdlib-js/stdlib/commit/e8b3a879b467bf7a10632d4951c58048c8bd0fa1) - **docs:** update related packages sections [(#13345)](https://github.com/stdlib-js/stdlib/pull/13345) _(by stdlib-bot)_
+-   [`bce3f55`](https://github.com/stdlib-js/stdlib/commit/bce3f55d4c882af77d2401d8622d818369421c39) - **docs:** update related packages sections [(#13313)](https://github.com/stdlib-js/stdlib/pull/13313) _(by stdlib-bot)_
 -   [`e9f7554`](https://github.com/stdlib-js/stdlib/commit/e9f75542701aa7535be20b624f35a483b4c6e34d) - **docs:** update related packages sections [(#13187)](https://github.com/stdlib-js/stdlib/pull/13187) _(by stdlib-bot)_
 -   [`4b16c6e`](https://github.com/stdlib-js/stdlib/commit/4b16c6ed254600362147eb47602af2687ac97814) - **feat:** update `ndarray/matrix` TypeScript declarations [(#13160)](https://github.com/stdlib-js/stdlib/pull/13160) _(by stdlib-bot)_
 -   [`a89402a`](https://github.com/stdlib-js/stdlib/commit/a89402ae3d59a3c0d1e6d7bc735dd8804ef6b048) - **docs:** update namespace table of contents [(#13161)](https://github.com/stdlib-js/stdlib/pull/13161) _(by stdlib-bot, Philipp Burckhardt)_
