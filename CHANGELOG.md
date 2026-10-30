@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-04)
+## Unreleased (2026-10-30)
 
 <section class="features">
 
 ### Features
 
+-   [`5ec3677`](https://github.com/stdlib-js/stdlib/commit/5ec3677ec638bc4b1540b2e63383db29b9176fa0) - add `Int16Matrix` to namespace
+-   [`55f408c`](https://github.com/stdlib-js/stdlib/commit/55f408c209620b8388bfce4cc589a6014bc9377d) - add `ndarray/matrix/int16`
 -   [`4b16c6e`](https://github.com/stdlib-js/stdlib/commit/4b16c6ed254600362147eb47602af2687ac97814) - update `ndarray/matrix` TypeScript declarations [(#13160)](https://github.com/stdlib-js/stdlib/pull/13160)
 -   [`2e56dfa`](https://github.com/stdlib-js/stdlib/commit/2e56dfa5c8f48ea64c01692be8cc4ef5a7999d1e) - add `Int32Matrix` to namespace
 -   [`03d3cb0`](https://github.com/stdlib-js/stdlib/commit/03d3cb0a816d66f3f6030b2264f839936877ab57) - add `ndarray/matrix/int32`
@@ -57,6 +59,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`5ec3677`](https://github.com/stdlib-js/stdlib/commit/5ec3677ec638bc4b1540b2e63383db29b9176fa0) - **feat:** add `Int16Matrix` to namespace _(by Athan Reines)_
+-   [`55f408c`](https://github.com/stdlib-js/stdlib/commit/55f408c209620b8388bfce4cc589a6014bc9377d) - **feat:** add `ndarray/matrix/int16` _(by Athan Reines)_
 -   [`c21221c`](https://github.com/stdlib-js/stdlib/commit/c21221c1a4ec8709eaca86aa5acc984e4aafda6d) - **fix:** add missing option validation [(#14966)](https://github.com/stdlib-js/stdlib/pull/14966) _(by JoyBoy, Athan Reines)_
 -   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
 -   [`f449b5c`](https://github.com/stdlib-js/stdlib/commit/f449b5c1784f60ab3322393dc3e51ad497ce12d2) - **docs:** update related packages sections [(#13381)](https://github.com/stdlib-js/stdlib/pull/13381) _(by stdlib-bot)_
