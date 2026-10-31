@@ -43,6 +43,7 @@
     "@stdlib/ndarray-matrix-float64": "github:stdlib-js/ndarray-matrix-float64#main",
     "@stdlib/ndarray-matrix-int16": "github:stdlib-js/ndarray-matrix-int16#main",
     "@stdlib/ndarray-matrix-int32": "github:stdlib-js/ndarray-matrix-int32#main",
+    "@stdlib/ndarray-matrix-int8": "github:stdlib-js/ndarray-matrix-int8#main",
     "@stdlib/ndarray-matrix-uint16": "github:stdlib-js/ndarray-matrix-uint16#main",
     "@stdlib/ndarray-matrix-uint32": "github:stdlib-js/ndarray-matrix-uint32#main",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
@@ -60,6 +61,7 @@
     "@stdlib/array-from-iterator": "^0.2.3",
     "@stdlib/array-int16": "^0.2.3",
     "@stdlib/array-int32": "^0.2.3",
+    "@stdlib/array-int8": "^0.2.3",
     "@stdlib/array-shape": "^0.2.3",
     "@stdlib/array-to-iterator": "^0.2.3",
     "@stdlib/array-typed": "^0.3.2",
@@ -72,6 +74,7 @@
     "@stdlib/assert-is-collection": "^0.2.3",
     "@stdlib/assert-is-equal-int16array": "^0.1.1",
     "@stdlib/assert-is-equal-int32array": "^0.1.1",
+    "@stdlib/assert-is-equal-int8array": "^0.1.1",
     "@stdlib/assert-is-equal-uint16array": "^0.1.1",
     "@stdlib/assert-is-equal-uint32array": "^0.1.1",
     "@stdlib/assert-is-function": "^0.2.3",
