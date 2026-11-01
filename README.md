@@ -88,6 +88,7 @@ The namespace exports the following:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`BooleanMatrix()`][@stdlib/ndarray/matrix/bool]</span><span class="delimiter">: </span><span class="description">create a boolean matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Complex128Matrix()`][@stdlib/ndarray/matrix/complex128]</span><span class="delimiter">: </span><span class="description">create a double-precision complex floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Complex64Matrix()`][@stdlib/ndarray/matrix/complex64]</span><span class="delimiter">: </span><span class="description">create a single-precision complex floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`matrix()`][@stdlib/ndarray/matrix/ctor]</span><span class="delimiter">: </span><span class="description">create a matrix (i.e., a two-dimensional ndarray).</span>
@@ -95,6 +96,11 @@ The namespace exports the following:
 -   <span class="signature">[`Float64Matrix()`][@stdlib/ndarray/matrix/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Int16Matrix()`][@stdlib/ndarray/matrix/int16]</span><span class="delimiter">: </span><span class="description">create a 16-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Int32Matrix()`][@stdlib/ndarray/matrix/int32]</span><span class="delimiter">: </span><span class="description">create a 32-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Int8Matrix()`][@stdlib/ndarray/matrix/int8]</span><span class="delimiter">: </span><span class="description">create an 8-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Uint16Matrix()`][@stdlib/ndarray/matrix/uint16]</span><span class="delimiter">: </span><span class="description">create a 16-bit unsigned integer matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Uint32Matrix()`][@stdlib/ndarray/matrix/uint32]</span><span class="delimiter">: </span><span class="description">create a 32-bit unsigned integer matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Uint8Matrix()`][@stdlib/ndarray/matrix/uint8]</span><span class="delimiter">: </span><span class="description">create an 8-bit unsigned integer matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`Uint8ClampedMatrix()`][@stdlib/ndarray/matrix/uint8c]</span><span class="delimiter">: </span><span class="description">create a clamped 8-bit unsigned integer matrix (i.e., a two-dimensional ndarray).</span>
 
 </div>
 
@@ -215,6 +221,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
+[@stdlib/ndarray/matrix/bool]: https://github.com/stdlib-js/ndarray-matrix-bool
+
 [@stdlib/ndarray/matrix/complex128]: https://github.com/stdlib-js/ndarray-matrix-complex128
 
 [@stdlib/ndarray/matrix/complex64]: https://github.com/stdlib-js/ndarray-matrix-complex64
@@ -228,6 +236,16 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/matrix/int16]: https://github.com/stdlib-js/ndarray-matrix-int16
 
 [@stdlib/ndarray/matrix/int32]: https://github.com/stdlib-js/ndarray-matrix-int32
+
+[@stdlib/ndarray/matrix/int8]: https://github.com/stdlib-js/ndarray-matrix-int8
+
+[@stdlib/ndarray/matrix/uint16]: https://github.com/stdlib-js/ndarray-matrix-uint16
+
+[@stdlib/ndarray/matrix/uint32]: https://github.com/stdlib-js/ndarray-matrix-uint32
+
+[@stdlib/ndarray/matrix/uint8]: https://github.com/stdlib-js/ndarray-matrix-uint8
+
+[@stdlib/ndarray/matrix/uint8c]: https://github.com/stdlib-js/ndarray-matrix-uint8c
 
 <!-- </toc-links> -->
 
