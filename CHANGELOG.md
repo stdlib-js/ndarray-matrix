@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-31)
+## Unreleased (2026-11-01)
 
 <section class="features">
 
 ### Features
 
+-   [`b14ef36`](https://github.com/stdlib-js/stdlib/commit/b14ef366ffe43bc1ff1fe26fffc842ce6d8d4448) - update `ndarray/matrix` TypeScript declarations [(#16414)](https://github.com/stdlib-js/stdlib/pull/16414)
 -   [`c4bb8b8`](https://github.com/stdlib-js/stdlib/commit/c4bb8b8621ad88b594bc7e458c7ba89f6332689e) - add `BooleanMatrix` to namespace
 -   [`d395cea`](https://github.com/stdlib-js/stdlib/commit/d395cea8dd7f16102f633debea6c12cee9fa4d15) - add `ndarray/matrix/bool`
 -   [`1f53e6b`](https://github.com/stdlib-js/stdlib/commit/1f53e6b37e3190c6731a08bfafb4ad13b177ae2d) - add `Uint8ClampedMatrix` to namespace
@@ -72,6 +73,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`b14ef36`](https://github.com/stdlib-js/stdlib/commit/b14ef366ffe43bc1ff1fe26fffc842ce6d8d4448) - **feat:** update `ndarray/matrix` TypeScript declarations [(#16414)](https://github.com/stdlib-js/stdlib/pull/16414) _(by stdlib-bot)_
+-   [`5f1e253`](https://github.com/stdlib-js/stdlib/commit/5f1e2532583d201353eae6288d960850a2f49cde) - **refactor:** use external utility _(by Athan Reines)_
 -   [`c4bb8b8`](https://github.com/stdlib-js/stdlib/commit/c4bb8b8621ad88b594bc7e458c7ba89f6332689e) - **feat:** add `BooleanMatrix` to namespace _(by Athan Reines)_
 -   [`d395cea`](https://github.com/stdlib-js/stdlib/commit/d395cea8dd7f16102f633debea6c12cee9fa4d15) - **feat:** add `ndarray/matrix/bool` _(by Athan Reines)_
 -   [`1f53e6b`](https://github.com/stdlib-js/stdlib/commit/1f53e6b37e3190c6731a08bfafb4ad13b177ae2d) - **feat:** add `Uint8ClampedMatrix` to namespace _(by Athan Reines)_
