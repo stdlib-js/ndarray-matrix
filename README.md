@@ -94,6 +94,7 @@ The namespace exports the following:
 -   <span class="signature">[`matrix()`][@stdlib/ndarray/matrix/ctor]</span><span class="delimiter">: </span><span class="description">create a matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Float32Matrix()`][@stdlib/ndarray/matrix/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Float64Matrix()`][@stdlib/ndarray/matrix/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point matrix (i.e., a two-dimensional ndarray).</span>
+-   <span class="signature">[`GenericMatrix()`][@stdlib/ndarray/matrix/generic]</span><span class="delimiter">: </span><span class="description">create a "generic" matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Int16Matrix()`][@stdlib/ndarray/matrix/int16]</span><span class="delimiter">: </span><span class="description">create a 16-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Int32Matrix()`][@stdlib/ndarray/matrix/int32]</span><span class="delimiter">: </span><span class="description">create a 32-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
 -   <span class="signature">[`Int8Matrix()`][@stdlib/ndarray/matrix/int8]</span><span class="delimiter">: </span><span class="description">create an 8-bit signed integer matrix (i.e., a two-dimensional ndarray).</span>
@@ -232,6 +233,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/matrix/float32]: https://github.com/stdlib-js/ndarray-matrix-float32
 
 [@stdlib/ndarray/matrix/float64]: https://github.com/stdlib-js/ndarray-matrix-float64
+
+[@stdlib/ndarray/matrix/generic]: https://github.com/stdlib-js/ndarray-matrix-generic
 
 [@stdlib/ndarray/matrix/int16]: https://github.com/stdlib-js/ndarray-matrix-int16
 
