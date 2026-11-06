@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-01)
+## Unreleased (2026-11-06)
 
 <section class="features">
 
 ### Features
 
+-   [`19527da`](https://github.com/stdlib-js/stdlib/commit/19527da88483518e607e4d1d28999af141830090) - add `GenericMatrix` to namespace
+-   [`7680dcc`](https://github.com/stdlib-js/stdlib/commit/7680dcc7ef06b3253ad49b8fc96a46dfd4457d2b) - add `ndarray/matrix/generic`
 -   [`b14ef36`](https://github.com/stdlib-js/stdlib/commit/b14ef366ffe43bc1ff1fe26fffc842ce6d8d4448) - update `ndarray/matrix` TypeScript declarations [(#16414)](https://github.com/stdlib-js/stdlib/pull/16414)
 -   [`c4bb8b8`](https://github.com/stdlib-js/stdlib/commit/c4bb8b8621ad88b594bc7e458c7ba89f6332689e) - add `BooleanMatrix` to namespace
 -   [`d395cea`](https://github.com/stdlib-js/stdlib/commit/d395cea8dd7f16102f633debea6c12cee9fa4d15) - add `ndarray/matrix/bool`
@@ -73,6 +75,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`d87ead6`](https://github.com/stdlib-js/stdlib/commit/d87ead6d0f8f86d8bb4b09da50c6088c34278195) - **docs:** rename variable _(by Athan Reines)_
+-   [`19527da`](https://github.com/stdlib-js/stdlib/commit/19527da88483518e607e4d1d28999af141830090) - **feat:** add `GenericMatrix` to namespace _(by Athan Reines)_
+-   [`7680dcc`](https://github.com/stdlib-js/stdlib/commit/7680dcc7ef06b3253ad49b8fc96a46dfd4457d2b) - **feat:** add `ndarray/matrix/generic` _(by Athan Reines)_
+-   [`ac11a37`](https://github.com/stdlib-js/stdlib/commit/ac11a377e7fbdaf11c0f40687d758c020963d985) - **docs:** update related packages sections [(#16455)](https://github.com/stdlib-js/stdlib/pull/16455) _(by stdlib-bot)_
 -   [`7be6477`](https://github.com/stdlib-js/stdlib/commit/7be64773404680cd10096e9cac6b27d3a589ff94) - **docs:** update namespace table of contents [(#16417)](https://github.com/stdlib-js/stdlib/pull/16417) _(by stdlib-bot)_
 -   [`b14ef36`](https://github.com/stdlib-js/stdlib/commit/b14ef366ffe43bc1ff1fe26fffc842ce6d8d4448) - **feat:** update `ndarray/matrix` TypeScript declarations [(#16414)](https://github.com/stdlib-js/stdlib/pull/16414) _(by stdlib-bot)_
 -   [`5f1e253`](https://github.com/stdlib-js/stdlib/commit/5f1e2532583d201353eae6288d960850a2f49cde) - **refactor:** use external utility _(by Athan Reines)_
